@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.top {
+  min-height: 100vh;
+}
+.gb {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+  width: 300px;
+  background-color: #fff;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+h2 {
+  text-align: center;
+}
+form div {
+  margin: 30px;
+}
+.bt {
+  margin-left: 5px;
+  width: 150px;
+  height: 30px;
+  border-radius: 10px;
+}
+form div input {
+  height: 25px;
+  border-radius: 5px;
+
+  text-align: center;
+}
