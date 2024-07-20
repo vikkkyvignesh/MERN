@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/vikkkyvignesh/MERN/static/css/main.31d6cfe0.css",
+    "main.js": "/vikkkyvignesh/MERN/static/js/main.4689a748.js",
+    "index.html": "/vikkkyvignesh/MERN/index.html",
+    "main.4689a748.js.map": "/vikkkyvignesh/MERN/static/js/main.4689a748.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.4689a748.js"
+  ]
+}
